@@ -1,4 +1,5 @@
 # *Hands on Machine Learning with Scikit-Learn, Keras, and Tensorflow*
+### by Aurélion Géron
 
 ![image](https://user-images.githubusercontent.com/111900227/194188960-bab40860-f4e1-482b-8483-a1ccd6953991.png)
 
